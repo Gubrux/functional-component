@@ -1,0 +1,9 @@
+.Card{
+  text-align: center;
+}
+button{
+  background-color: #e6e6e6;
+  padding: 8px;
+  border-radius: 6px;
+  border-color: #e6e6e6;
+}
